@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "911814964024",
+    "project_id": "synergiaprestamostoti",
+    "storage_bucket": "synergiaprestamostoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911814964024:android:7ccdac2f9180750a2a47cd",
+        "android_client_info": {
+          "package_name": "co.synergiapos.prestamostoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911814964024-e9jv3plelfcn4bikgh5ha1ngfqcnrdte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnjaxrd_bn6UYg18WnEFBZDv94dlXmmNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911814964024-e9jv3plelfcn4bikgh5ha1ngfqcnrdte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911814964024:android:4c05bc25cd7c4ca32a47cd",
+        "android_client_info": {
+          "package_name": "com.example.purbeasysman1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911814964024-e9jv3plelfcn4bikgh5ha1ngfqcnrdte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnjaxrd_bn6UYg18WnEFBZDv94dlXmmNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911814964024-e9jv3plelfcn4bikgh5ha1ngfqcnrdte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
